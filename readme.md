@@ -11,7 +11,7 @@
 ``` shell
   npm i koishi-plugin-bdtrans --save
 ```
-之后根据 **[Koishi v3](https://github.com/koishijs/koishi)** 进行安装。
+之后根据 **[Koishi v3](https://koishi.js.org/guide/context.html#%E5%AE%89%E8%A3%85%E6%8F%92%E4%BB%B6)** 进行安装。
 
 ## 使用方式
 
