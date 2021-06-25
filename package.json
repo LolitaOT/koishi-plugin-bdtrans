@@ -1,0 +1,18 @@
+{
+  "name": "koishi-plugin-bdtrans",
+  "version": "1.0.0",
+  "description": "这是一个基于百度翻译API的翻译插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "download": "^8.0.0",
+    "form-data": "^4.0.0",
+    "koishi": "^3.12.0",
+    "md5": "^2.3.0"
+  }
+}
