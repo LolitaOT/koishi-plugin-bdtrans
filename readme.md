@@ -1,5 +1,7 @@
 # 基于百度的翻译插件
 
+
+
 一个用于 **[Koishi v3](https://github.com/koishijs/koishi)** 的百度翻译插件。
 
 ~~这个插件我只在qq上用，其他平台不保证能用~~
@@ -43,3 +45,6 @@
 [申请开发者账号](https://fanyi-api.baidu.com/api/trans/product/desktop)
 
 百度翻译API，识图翻译前1w次是免费的，高级版通用翻译也是前200w字符免费
+
+
+[![NPM](https://nodei.co/npm/koishi-plugin-bdtrans.png)](https://nodei.co/npm/koishi-plugin-bdtrans/)

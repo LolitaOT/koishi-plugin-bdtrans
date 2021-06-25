@@ -1,12 +1,12 @@
 {
   "name": "koishi-plugin-bdtrans",
   "version": "1.0.0",
-  "description": "这是一个基于百度翻译API的翻译插件",
+  "description": "这是一个用于koishi的百度翻译插件",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "LolitaOT",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
@@ -14,5 +14,14 @@
     "form-data": "^4.0.0",
     "koishi": "^3.12.0",
     "md5": "^2.3.0"
-  }
+  },
+  "homepage": "https://github.com/LolitaOT/koishi-plugin-bdtrans",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LolitaOT/koishi-plugin-bdtrans"
+  },
+  "peerDependencies": {
+    "koishi-core": ">=3"
+  },
+  "keywords": ["koishi","baidu","translate"]
 }
